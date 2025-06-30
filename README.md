@@ -54,6 +54,10 @@
   <a href="https://t.me/ondemande19">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/okyra-asyrafi-guchan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
